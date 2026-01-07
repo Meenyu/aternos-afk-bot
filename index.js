@@ -14,7 +14,7 @@ app.listen(3000, () => {
 // --- 2. BOT CONFIGURATION ---
 const botArgs = {
   host: 'NPGurkhas.aternos.me', // Replace with your server IP
-  port: 45609,                      // Usually 25565
+  port: 42609,                      // Usually 25565
   username: '24_7_Bot',             // The name of your bot
   version: '1.21.11'                 // IMPORTANT: Change to your server version
 };
